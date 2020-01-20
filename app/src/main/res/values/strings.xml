@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PDF阅读器</string>
+    <string name="get_file">选择pdf文件</string>
+    <string name="app_name_with_index">Pdf阅读器 (%1$d/%2$d)</string>
+</resources>
